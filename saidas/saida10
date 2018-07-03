@@ -1,0 +1,35 @@
+3
+000 1
+001 2
+010 3
+011 3
+100 4
+101 4
+110 4
+111 5
+3
+20 nomevinte 20
+30 nometrinta 30
+null
+3
+40 nomequarenta 40
+50 nomecinquenta 50
+null
+1
+128 nomecentovinteoito 12
+129 nomecintovintenove 12
+null
+2
+00 1
+01 2
+10 3
+11 3
+2
+20 nomevinte 20
+30 nometrinta 30
+40 nomequarenta 40
+null
+1
+128 nomecentovinteoito 12
+129 nomecentovintenove 12
+null
