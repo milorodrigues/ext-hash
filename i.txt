@@ -1,2 +1,6 @@
-m
+i
+30
+nometrinta
+30
+p
 e

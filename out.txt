@@ -1,1 +1,11 @@
-0
+chave nao encontrada: 70
+1
+0 1
+1 2
+1
+20 nomevinte 20
+40 nomequarenta 40
+nulo
+1
+128 nomecentovinteoito 12
+nulo
